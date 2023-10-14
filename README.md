@@ -43,4 +43,4 @@ Explore which online platforms are most popular among our customers.
 # Conclusion:
 This Excel report encapsulates the power of data-driven decision-making. Armed with these insights, we're poised for a successful year ahead. Let's embark on this journey towards accelerated sales growth!
 
-![image](https://github.com/Samayamy/Sales-Analytics-using-Excel/assets/53617164/ca411087-6cc0-4a9a-9646-42649627d416)
+![Ecommerce annual report using excel](https://github.com/Samayamy/Sales-Analytics-using-Excel/assets/53617164/bbc09acd-a123-47bc-a2da-e6a230c93995)
