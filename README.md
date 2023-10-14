@@ -1,6 +1,6 @@
 # Sales-Analytics-using-Excel
 Analyzed Ecommerce sales Data for an online store using Excel
-# Welcome to the E-commerce Sales Analytics Report!
+
 Embark on a journey through insightful data analysis to unlock the keys to boosting sales for the upcoming year. This Excel report is meticulously crafted to provide a clear understanding of customer demographics, preferences, and purchasing behaviors.
 
 # Key Insights:
